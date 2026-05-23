@@ -1,2 +1,2 @@
-# ssh-activity-telegram.sh
+# server-activity-telegram.sh
 Telegram notifications for SSH logins and commands
